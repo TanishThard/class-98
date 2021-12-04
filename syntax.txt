@@ -1,0 +1,5 @@
+def fuctionName():
+    blockOfCode()
+
+def fuctionName(variable):
+    blockOfCode()
